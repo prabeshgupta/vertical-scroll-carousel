@@ -16,7 +16,7 @@ A simple vertical scroll carousel made with HTML, CSS, and JavaScript. This caro
 ## Installation and Usage:
 
 ### Clone the repository:
-git clone https://github.com/prabeshgupta/vertical-scroll-carousel.git
+git clone https://github.com/prabeshgupta/verticalscroll.git
 
 ### Navigate to the project folder
 cd vertical-scroll-carousel
